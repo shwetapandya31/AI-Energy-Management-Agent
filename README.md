@@ -196,6 +196,6 @@ AI-Energy-Management-Agent/
 
 ## Author
 
-Name Here
+Shweta Rakesh Pandya
 
 AICTE Generative AI & Agentic System Engineering Internship Project
